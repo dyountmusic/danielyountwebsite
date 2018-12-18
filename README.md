@@ -1,2 +1,2 @@
 # danielyountwebsite
-My personal website hosted at http://www.danielyount.com
+My personal website hosted at www.danielyount.com
