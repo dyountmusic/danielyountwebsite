@@ -1,10 +1,19 @@
 h1 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+h2 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 24px;
     font-style: normal;
     font-variant: normal;
     font-weight: bold;
-    line-height: 26px;
+    line-height: 24px;
 }
 
 h3 {
@@ -41,4 +50,56 @@ pre {
     font-variant: normal;
     font-weight: 400;
     line-height: 18px;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.appIcon {
+    height: 150px;
+    max-height: 150px;
+}
+
+.button {
+    background-color: #2196F3;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.button:hover {
+    background-color: #83C7FF;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+
+.carousel {
+    
 }
